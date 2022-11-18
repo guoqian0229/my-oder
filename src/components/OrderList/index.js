@@ -13,6 +13,7 @@ class OrderList extends Component {
         }
     }
 
+    // 组件挂载完后执行获取订单数据
     componentDidMount(){
         fetch('/mock/orders.json').then(res => {
             if(res.ok){

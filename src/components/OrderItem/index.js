@@ -10,11 +10,13 @@ class OrderItem extends Component {
             comment: props.data.comment || "",
         }
     }
+    // 打开订单评论
     handleOpenEditArea = () => {
         this.setState({
             editing: true
         })
     }
+    // 处理评论内容修改
     handleCommentChange = (e) => {
         this.setState({
             comment: e.target.value

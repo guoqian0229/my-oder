@@ -1,0 +1,31 @@
+ [
+    {
+        "id": 1,
+        "shop": "院落创意菜",
+        "picture": "http://www.qwphp.com/web/uploads/2016-03-07/159cbcca4f2f5959e9ba209eecbf0d5a.jpg",
+        "product": "百香果（冷饮）1扎",
+        "price": 19.9,
+        "ifCommented": false
+    }, {
+        "id": 2,
+        "shop": "正一味",
+        "picture": "http://www.qwphp.com/web/uploads/2016-03-07/a7368d9b6bee0d505a220cd903dcd43c.jpg",
+        "product": "肥牛石锅拌饭+鸡蛋羹一份",
+        "price": 25,
+        "ifCommented": false
+    }, {
+        "id": 3,
+        "shop": "冻酸奶",
+        "picture": "http://www.qwphp.com/web/uploads/2016-03-07/4c21dde63b15de6bed3a02305a9ab8c3.jpg",
+        "product": "冻酸奶（小杯)一杯",
+        "price": 8,
+        "ifCommented": true
+    }, {
+        "id": 4,
+        "shop": "吉野家",
+        "picture": "http://www.qwphp.com/web/uploads/2016-03-07/0444fdd46ef30cb81b706ef27f18295f.jpg",
+        "product": "鸡汁烧鱼+中杯汽水/紫菜蛋花汤",
+        "price": 20,
+        "ifCommented": true
+    }
+]
